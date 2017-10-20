@@ -5,8 +5,11 @@
     <title>Title</title>
 </head>
 <body>
-<?php
-echo "我的第一段 PHP 脚本！";
-?>
+<h1>
+    <?php
+    echo "我的第一段 PHP 脚本！";
+    ?>
+</h1>
+
 </body>
 </html>
